@@ -24,6 +24,7 @@
 | 專案 | 用途 |
 | --- | --- |
 | [Ben Health OS](https://github.com/nanchendk/ben-health-os) | 個人健康與減脂管理 |
+| [國立大學檢定地圖｜115 學年度](https://github.com/nanchendk/ben-university-admission) | 26 所國立大學申請入學英文、英聽與六科檢定門檻查詢；114／115 年度比較 · [開啟網站](https://nanchendk.github.io/ben-university-admission/) |
 | [工時儀表板](https://github.com/nanchendk/ben-app_work_hours_dashboard) | 工作時數管理 |
 | [學校公告 LINE 推播](https://github.com/nanchendk/school-line-notify) | 家庭共用的學校公告通知工具（私人 Repository，需權限才能查看） |
 | [ccn.aiman](https://github.com/nanchendk/ben-ccn.aiman) | 其他個人專案（用途待補） |
